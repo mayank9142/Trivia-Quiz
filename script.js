@@ -33,7 +33,7 @@ const questions = [
         category: "Entertainment",
         question: "Who won the Best Actor Oscar in 2025?",
         options: ["Paul Giamatti", "Cillian Murphy", "Bradley Cooper", "Barry Keoghan"],
-        answer: 2
+        answer: 1
     },
     {
         category: "Technology",
