@@ -13,7 +13,7 @@ const questions = [
     },
     {
         category: "Spotrs",
-        question: "Whos was name POTM in Final of T20WC24?",
+        question: "Whos was named POTM in Final of T20WC24?",
         options: ["Virat Kohli", "Axar Patel", "Hardik Pandya", "Jasprit Bumrah"],
         answer: 0
     },
