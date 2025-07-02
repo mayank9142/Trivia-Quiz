@@ -1,25 +1,25 @@
 const questions = [
     {
         category: "Sports",
-        question: " Who won the IPL 2025 and ended their trophy drought?",
+        question: " Which team won the IPL 2025 and ended their trophy drought?",
         options: ["DC", "PBKS", "LSG", "RCB"],
         answer: 3
     },
     {
         category: "Sports",
-        question: "Which player is the highest run geter in history of IPL?",
+        question: "Which player is the highest run getter in history of IPL?",
         options: ["Suresh Raina", "Virat Kohli", "MS Dhoni", "Rohit Sharma"],
         answer: 1
     },
     {
         category: "Spotrs",
-        question: "Whos was named POTM in Final of T20WC24?",
+        question: "Who was named POTM in Final of T20WC24?",
         options: ["Virat Kohli", "Axar Patel", "Hardik Pandya", "Jasprit Bumrah"],
         answer: 0
     },
     {
         category: "Sports",
-        question: "Whio won the Golden Bat in Champions Trophy 2025",
+        question: "Who won the Golden Bat in Champions Trophy 2025",
         options: ["Shreyas Iyyer", "Rohit Sharma", "Virat Kohli", "Rachin Ravindra"],
         answer: 3
     },
